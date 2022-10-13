@@ -1,0 +1,5 @@
+chromedriver
+faiss.index
+geckodriver
+geckodriver.log
+data.json
